@@ -1,0 +1,5 @@
+The 2 Complement is a method which is used in the binary form to indecate or represent negative numbers in the binary form.
+It also allows any binary function to check whether it is positive or neagtive. which makes it for the hardware to work efficiently.
+Like we can write any number in the binary such as 24. the 1 complement for this would be invert all bits of it to change from all 1 number 
+in 0 and all 0 in the 1. Like 24 have binary form in 8 bit 00011000. When we do 1 complement we have to change like 11100111 this is called 1 complement.
+When we have to write 2 complement add one in the 11100111+1= 11101000 which is 2 complement. 
