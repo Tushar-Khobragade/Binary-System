@@ -1,4 +1,2 @@
 # Binary-System
 Binary system stand as the fundamental foundation of a computers system. It is important to understand the basics of computer since computers don't function on alphabets and numbers but binary system of 0 and 1. 
-When computer has to change names and numbers in binary form that has the very long process that we can't see.
-Like if you have to convert 11 in the binary form we have to divide the 11 by the 2. for instance 11 divide by 2 = 5, and the remainder is 1, then we take  the quotient is 5, then we have to divide the 5 by the 2 and we get remainder 1, then again we got quotient 2, again we have to divide 2 by 2 then we get 0 because there is quotient 1 left but we get remainder 0. we have to divide the 1 by 0 and we get 1 as remainder and we have to stop here becasue we have quotient is 0. Now the code for the binary of 11 that is 1011 which we have to write bottom to top.
