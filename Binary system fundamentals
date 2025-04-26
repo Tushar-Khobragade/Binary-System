@@ -8,3 +8,10 @@ and we get remainder 1, then again we got quotient 2, again we have to divide 2 
 becasue we have quotient is 0. Now the code for the binary of 11 that is 1011 which we have to write bottom to top.
 In the binary the first bit of binary is called the "sign bit" which usually tells about the number whether it is positive or 
 negative. Such as in sign bit 0 is positive and 1 is negative. 
+
+
+We did a quiz on binary numbers that helped me understand binary numbers on 30 January in Moodle in the class. 
+Today, I completed an online quiz about converting between binary and decimal numbers and working with two’s complement for negative binary numbers. It was an interesting experience that helped me better understand the connection between binary and decimal systems.
+In the first question, I was asked to convert 1011 (binary) to decimal. I correctly selected 11 as the answer. With all the calculation work on the paper, which was tough, I managed to do it. The second question was about converting 13 (decimal) into binary. I chose 1101, which was a little bit difficult because much effort was put into it, and the time was also limited. For the third question, I had to convert 1000000 (binary) to decimal. I answered correctly with 64. From all 15 questions, it was very difficult for me to understand and write because converting such a large amount from binary to a number was difficult, but with the help of the system that you taught in the class to do the square of each number, which helped. 
+Overall, I found this quiz both challenging and rewarding. It showed me where I need to review two’s complement more carefully, but it also boosted my confidence in simple binary-decimal conversions. I'm motivated to keep practicing and improve my understanding even further. 
+
